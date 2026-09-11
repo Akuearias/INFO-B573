@@ -9,6 +9,7 @@ Other required libraries/packages/additional software: -
 
 Instructions:
   1. Download the files by: git clone https://github.com/Akuearias/INFO-B573.git
-  2. Run the file by: ./Assignment1_ruizliu.sh
+  2. Enter INFO-B573 directory
+  3. Run the file by: ./Assignment1_ruizliu.sh
 
 Any files that should be made during the process of running the script: -

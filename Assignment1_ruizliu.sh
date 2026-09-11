@@ -31,4 +31,4 @@ head *.fa >> data_summary.txt
 
 # Append the name of assembly and the total number of lines
 echo "Assembly: hg38" >> data_summary.txt
-echo "Total number of lines: $(cat *.fa | wc -l))" >> data_summary.txt
+echo "Total number of lines: $(cat *.fa | wc -l)" >> data_summary.txt
